@@ -1,0 +1,5 @@
+#directory
+INPUT_DIR: "input"
+OUTPUT_DIR: "output"
+TMP_DIR: "tmp"
+TOOLS_DIR: "tools"

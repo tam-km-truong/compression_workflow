@@ -9,6 +9,11 @@
 *.user
 *.userosscache
 *.sln.docstates
+.snakemake
+.DS_Store
+input/*
+output/*
+tmp/*
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
