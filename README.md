@@ -1,3 +1,4 @@
+This workflow is now included in miniphy2 - workflow-implementation branch
 # compression_workflow
 Compression workflow for miniphy2
 
